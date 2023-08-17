@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Blog site<br>⛈️ I use Arch Btw<br>Ask me about react, flutter
+I'm currently working on a Blog site<br>⛈️ I use Arch Btw<br>Ask me anything about react, flutter
 
 
 ## 🌐 Socials:
